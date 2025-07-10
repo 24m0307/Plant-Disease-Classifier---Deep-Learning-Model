@@ -1,0 +1,27 @@
+PlantVillage Dataset
+This project uses the PlantVillage Leaf Disease Dataset, a widely-used benchmark dataset for training plant disease classification models.
+
+✅ Source: Kaggle - PlantVillage Dataset
+
+✅ Number of Classes: 15
+
+✅ Crops Covered:
+
+Tomato (10 disease classes + healthy)
+
+Potato (2 diseases + healthy)
+
+Pepper Bell (1 disease + healthy)
+
+✅ File Format: .JPG images
+
+
+| Crop      | Disease Type                  | Class Count |
+| --------- | ----------------------------- | ----------- |
+| Tomato    | 9 diseases + healthy          | 10          |
+| Potato    | Early & Late blight + healthy | 3           |
+| Pepper    | Bacterial spot + healthy      | 2           |
+| **Total** |                               | **15**      |
+
+📁 Dataset not included due to size.  
+Please download the dataset directly from [Kaggle PlantVillage](https://www.kaggle.com/datasets/emmarex/plantdisease).
