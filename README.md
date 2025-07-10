@@ -4,6 +4,15 @@ This repository contains a trained deep learning model for classifying diseases 
 
 It supports **15 plant disease classes** including healthy and infected conditions. You can immediately test the model on a new leaf image using the provided test script.
 
+## 📦 Dataset
+
+This project uses the [PlantVillage Dataset](https://www.kaggle.com/datasets/emmarex/plantdisease) available on Kaggle. It contains 15 different classes of plant leaf images including both healthy and diseased conditions of tomato, potato, and pepper bell plants.
+
+The dataset was used to train a deep learning model for disease classification. It includes high-resolution `.JPG` images grouped by class folders.
+
+> Note: The full dataset is **not included** in this repository due to file size restrictions.  
+> Please download it directly from [Kaggle PlantVillage Dataset](https://www.kaggle.com/datasets/emmarex/plantdisease) if you want to train the model yourself.
+
 
 ## 🧠 Model Classes
 
